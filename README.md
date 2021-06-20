@@ -1,2 +1,1 @@
 # StableMatchingAlgorithm
-# StableMatchingAlgorithm
